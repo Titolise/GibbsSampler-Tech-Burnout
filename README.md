@@ -4,7 +4,7 @@ This repository contains an R-based implementation of a custom Gibbs Sampler to 
 
 In addition to the Bayesian MCMC approach, the repository includes scripts for Exploratory Data Analysis (EDA) and MCMC chain diagnostics.
 
-[Read the full research paper (PDF)](../PDF/Tito_TechMentalB_GibbsSampler.pdf)
+[Read the full research paper (PDF)](/PDF/Tito_TechMentalB_GibbsSampler.pdf)
 
 ## 📂 Repository Structure
 
