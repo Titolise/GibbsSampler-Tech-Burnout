@@ -23,7 +23,10 @@ The project is modularized into the following R scripts:
 
 The analysis is built on the `mental_health_burnout_tech_2026.csv` dataset, which contains demographic, professional, and psychological data for tech industry employees.
 
-Key tracked features include: \* **Demographics & Roles**: Age, gender, country, job role, and seniority level. \* **Work & Lifestyle**: Work arrangement (Remote, Hybrid, On-site), sleep hours per night, work hours per week, and meetings per day. \* **Mental Health Metrics**: Aggregated scores for Burnout (`burnout_score`), Depression (`phq9_score`), and Anxiety (`gad7_score`), along with categorized severity levels.
+Key tracked features include: 
+* **Demographics & Roles**: Age, gender, country, job role, and seniority level. 
+* **Work & Lifestyle**: Work arrangement (Remote, Hybrid, On-site), sleep hours per night, work hours per week, and meetings per day.
+* **Mental Health Metrics**: Aggregated scores for Burnout (`burnout_score`), Depression (`phq9_score`), and Anxiety (`gad7_score`), along with categorized severity levels.
 
 ------------------------------------------------------------------------
 
